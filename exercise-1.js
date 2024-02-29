@@ -260,3 +260,16 @@
 // <script>
 //   document.getElementById('demo').addEventListenet('click', myFunction)
 // </script>
+
+//array
+// const fruits = ["strawberry", "kiwi", "cherry", "blueberry"];
+// fruits.push("peach");
+// console.log(fruits.toString());
+
+// const fruits = ["strawberry", "kiwi", "cherry", "blueberry"];
+// let fruit = fruits.pop();
+// console.log(fruit);
+
+//object
+// const dog = { name: "Gimli", type: "Corgi", age: 3 };
+// console.log(`${dog.name} is a ${dog.type}`);
